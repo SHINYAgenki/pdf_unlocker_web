@@ -1,0 +1,13 @@
+# バイトコンパイルされたPythonファイル
+__pycache__/
+*.py[cod]
+
+# データベースファイル
+db.sqlite3
+
+# macOSのシステムファイル
+.DS_Store
+
+# バーチャル環境
+venv/
+env/
